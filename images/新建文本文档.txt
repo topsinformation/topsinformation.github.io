@@ -1,0 +1,38 @@
+15inch touch screen
+resistance touch/capacitive touch
+4:3
+resolution 1024*768
+VGA/HDMI port
+
+
+17inch touch screen
+resistance touch/capacitive touch
+4:3
+resolution 1280*1024
+VGA /HDMI port
+
+
+17.3inch touch screen
+resistance touch/capacitive touch
+16:9
+resolution 1920*1080
+VGA/HDMI port
+
+21.5inch touch screen
+resistance touch/capacitive touch
+16:9
+resolution 1920*1080
+VGA/HDMI port
+
+
+
+15inch all in one pos system
+resistance touch/capacitive touch
+4:3
+resolution 1024*768
+CPU J1900/I3/I5 optional
+Ram 4g/8g optional
+Hard disk 64g/128g/256g optional
+
+
+
